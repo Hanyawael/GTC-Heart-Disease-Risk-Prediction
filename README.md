@@ -34,7 +34,7 @@ It applies **data preprocessing, feature engineering, exploratory data analysis 
 The dataset contains patient health records with features such as:
 Age, Sex, Blood Pressure, Cholesterol, Fasting Blood Sugar, Resting ECG results, Maximum Heart Rate, Exercise-induced Angina, Oldpeak (ST depression), Number of vessels colored by fluoroscopy, Thalassemia, and Target (Heart disease presence).
 
-Dataset reference: **UCI Heart Disease Dataset**
+Dataset reference: **kaggle:Framingham heart study dataset**
 
 ---
 
