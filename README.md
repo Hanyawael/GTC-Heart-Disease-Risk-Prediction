@@ -1,11 +1,20 @@
-
-
 # Heart Disease Risk Prediction
+
+## 🔗 Useful Links
+
+| Resource | Link |
+|----------|------|
+| Dataset | [Framingham Heart Study Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) |
+| Presentation | [Project Presentation]([#](https://www.canva.com/design/DAG0FmoU1XA/e9ElT7BVxk3KbwGECq064w/edit?utm_content=DAG0FmoU1XA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)) |
+| Live Demo | [Live Demo](#) |
+| 5-Minute Video | [Video Presentation](#) |
+
+---
 
 ## 📌 Overview
 
-This project is part of the **GTC (Genius Technology Center)**.
-The goal is to build a **Machine Learning model** that predicts the risk of heart disease based on patient health data.
+This project is part of the **GTC (Genius Technology Center)**.  
+The goal is to build a **Machine Learning model** that predicts the risk of heart disease based on patient health data.  
 It applies **data preprocessing, feature engineering, exploratory data analysis (EDA), and ML algorithms** to classify whether a patient is at risk.
 
 ---
@@ -31,12 +40,10 @@ It applies **data preprocessing, feature engineering, exploratory data analysis 
 
 ## 📊 Dataset
 
-The dataset contains patient health records with features such as:
+The dataset contains patient health records with features such as:  
 Age, Sex, Blood Pressure, Cholesterol, Fasting Blood Sugar, Resting ECG results, Maximum Heart Rate, Exercise-induced Angina, Oldpeak (ST depression), Number of vessels colored by fluoroscopy, Thalassemia, and Target (Heart disease presence).
 
-Dataset reference: **kaggle:Framingham heart study dataset**
-
----
+Dataset reference: **Kaggle: Framingham Heart Study Dataset**
 
 
 
