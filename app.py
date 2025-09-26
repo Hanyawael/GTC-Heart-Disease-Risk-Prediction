@@ -4,7 +4,7 @@ import joblib
 import numpy as np
 import pandas as pd
 # Load models
-
+rf_model = joblib.load("rf.pkl")
 xgb_model = joblib.load("xgb_model.pkl")
 lr_model = joblib.load("lr_model.pkl")
 
