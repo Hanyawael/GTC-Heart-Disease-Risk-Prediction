@@ -1,5 +1,15 @@
 # Heart Disease Risk Prediction
 
+## 🔗 Useful Links
+
+| Resource | Link |
+|----------|------|
+| Dataset | [Framingham Heart Study Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) |
+| Presentation | [Project Presentation](https://www.canva.com/design/DAG0FmoU1XA/e9ElT7BVxk3KbwGECq064w/edit?utm_content=DAG0FmoU1XA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| Live Demo | [Live Demo](https://gtc-heart-disease-risk-prediction-jgpgrdcuykvci2harsxcgm.streamlit.app/) |
+
+
+---
 
 ## 📌 Overview
 
